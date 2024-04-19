@@ -1,0 +1,1 @@
+void kuznechik_cfb(unsigned char *text, unsigned char *out_text, unsigned char *key, unsigned char *iv, unsigned long long int size_in);
